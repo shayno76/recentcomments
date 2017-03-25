@@ -14,7 +14,7 @@
  * 			showMorelink	= false,
  * 			moreLinktext	= "More &raquo;"
  * 			characters 	= 40,
- * 			defaultAvatar 	= "http://www.nubietheme.com/avatar/?d=mm",
+ * 			defaultAvatar 	= "http://www.gravatar.com/avatar/?d=mm",
  * 			hideCredits	= false;
  * 
  */
